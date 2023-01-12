@@ -12,4 +12,4 @@ ___
 - [ ] 002. [Add Two Numbers](https://github.com/BalamutAndrey/LeetCode-task/tree/main/002.%20Add%20Two%20Numbers) **`C` `Go`**
 - [ ] 003. [Longest Substring Without Repeating Characters](https://github.com/BalamutAndrey/LeetCode-task/tree/main/003.%20Longest%20Substring%20Without%20Repeating%20Characters) **`C` `Go`**
 - [ ] 004. [Median of Two Sorted Arrays](https://github.com/BalamutAndrey/LeetCode-task/tree/main/004.%20Median%20of%20Two%20Sorted%20Arrays) **`C` `Go`**
-- [ ] 5. Longest Palindromic Substring
+- [ ] 005. [Longest Palindromic Substring](https://github.com/BalamutAndrey/LeetCode-task/tree/main/005.%20Longest%20Palindromic%20Substring) **`C` `Go`**

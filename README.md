@@ -8,4 +8,5 @@ ___
 
 ---
 
-- [x] <span style="color:green">001.</span> [Two Sum](https://github.com/BalamutAndrey/LeetCode-task/tree/main/001.%20Two%20Sum) **`Go`**, **`C`**
+- [x] 001. [Two Sum](https://github.com/BalamutAndrey/LeetCode-task/tree/main/001.%20Two%20Sum) **`Go` `C`**
+- [ ] 002. Add Two Numbers

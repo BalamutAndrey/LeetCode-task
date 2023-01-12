@@ -1,5 +1,6 @@
 ___
 ## 001. Two Sum 
+
 **<span style="color:green">Easy</span>**, **`Go` `C`**
 ___
 Given an array of integers `nums` and an integer `target`, return indices of the two numbers such that they add up to `target`.

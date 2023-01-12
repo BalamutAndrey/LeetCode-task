@@ -11,3 +11,4 @@ ___
 - [x] 001. [Two Sum](https://github.com/BalamutAndrey/LeetCode-task/tree/main/001.%20Two%20Sum) **`Go` `C`**
 - [ ] 002. [Add Two Numbers](https://github.com/BalamutAndrey/LeetCode-task/tree/main/002.%20Add%20Two%20Numbers)
 - [ ] 003. Longest Substring Without Repeating Characters
+- [ ] 004. Median of Two Sorted Arrays

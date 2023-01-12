@@ -1,6 +1,6 @@
 ___
 ## 001. Two Sum 
-##### Easy, **`Go` `C`**
+#### Easy, **`C` `Go`**
 
 ___
 Given an array of integers `nums` and an integer `target`, return indices of the two numbers such that they add up to `target`.

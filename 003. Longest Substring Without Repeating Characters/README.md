@@ -1,6 +1,6 @@
 ___
 ## 003. Longest Substring Without Repeating Characters
-##### Medium, **`Go` `C`**
+#### Medium, **`C` `Go`**
 
 ___
 Given a string `s`, find the length of the **longest substring** without repeating characters. A substring is a contiguous non-empty sequence of characters within a string.

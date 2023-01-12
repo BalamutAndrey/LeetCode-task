@@ -8,7 +8,7 @@ ___
 
 ---
 
-- [x] 001. [Two Sum](https://github.com/BalamutAndrey/LeetCode-task/tree/main/001.%20Two%20Sum) **`Go` `C`**
-- [ ] 002. [Add Two Numbers](https://github.com/BalamutAndrey/LeetCode-task/tree/main/002.%20Add%20Two%20Numbers)
-- [ ] 003. Longest Substring Without Repeating Characters
-- [ ] 004. Median of Two Sorted Arrays
+- [x] 001. [Two Sum](https://github.com/BalamutAndrey/LeetCode-task/tree/main/001.%20Two%20Sum) **`C` `Go`**
+- [ ] 002. [Add Two Numbers](https://github.com/BalamutAndrey/LeetCode-task/tree/main/002.%20Add%20Two%20Numbers) **`C` `Go`**
+- [ ] 003. [Longest Substring Without Repeating Characters](https://github.com/BalamutAndrey/LeetCode-task/tree/main/003.%20Longest%20Substring%20Without%20Repeating%20Characters) **`C` `Go`**
+- [ ] 004. [Median of Two Sorted Arrays](https://github.com/BalamutAndrey/LeetCode-task/tree/main/004.%20Median%20of%20Two%20Sorted%20Arrays) **`C` `Go`**

@@ -1,5 +1,5 @@
 ___
-## 001. Two Sum 
+## 002. Add Two Numbers
 ##### Medium, **`Go` `C`**
 
 ___
